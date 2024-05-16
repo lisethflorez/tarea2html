@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.tabla0{ 
+
+    width: 100%;
+    background-color: rgb(253,213,159);
+    border: 2px solid peru;
+    border-radius: 5px;
+    border-spacing: 0px;
+}
+.tabla1{
+    padding: 20px;
+    width: 100%;
+    background-color:aliceblue;
+    border: 1px solid rgb(20,18,15);
+    border-radius: 20px;
+    border-spacing: 0px;
+
+}
+
